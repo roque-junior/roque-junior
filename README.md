@@ -7,7 +7,7 @@
 
 - Busco trabalho na área de programação; 👨🏻‍💻
 
-- Experiência profissional: Trabalhei em uma rede de mercados chamada Coagrisol cooperativa agroindustrial como Jovem apreendiz durante 05/08/2019 até 09/04/2021, atualmete trabalho na empresa [Bagatini Pedras LTDA](https://www.bagatinipedras.com.br/) como Cortador De Pedras desde 01/04/2022, estou mudando de profissão; 💼
+- Experiência profissional: Trabalhei em uma rede de mercados chamada Coagrisol cooperativa agroindustrial como Jovem aprendiz durante 05/08/2019 até 09/04/2021, atualmente trabalho na empresa [Bagatini Pedras LTDA](https://www.bagatinipedras.com.br/) como Cortador De Pedras desde 01/04/2022, estou querendo mudar de profissão para a área de Programação; 💼
 
 - Formação acadêmica: Cursando o Programa starter developer web full stack na [Growdev](https://www.growdev.com.br/), 
  Ensino Médio Concluido, 
