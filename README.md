@@ -1,5 +1,5 @@
 ### I'm Roque Junior Da Silva Moraes
-
+##
 - Busco trabalho na área de programação; 👨🏻‍💻
 
 - Experiência profissional: Trabalhei em uma rede de mercados chamada Coagrisol cooperativa agroindustrial como Jovem apreendiz durante 05/08/2019 até 09/04/2021, atualmete trabalho na empresa [Bagatini Pedras LTDA](https://www.bagatinipedras.com.br/) como Cortador De Pedras desde 01/04/2022, estou mudando de profissão. 💼
@@ -12,7 +12,7 @@
 - concluido: Photoshop para iniciantes na [phortal](https://escolaporthal.com.br/)🎓✍️
 
 - Email: [roquesilvamoraes@gmail.com]() 🌐
-
+##
 ![roque GitHub stats](https://github-readme-stats.vercel.app/api?username=roque-junior&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roque-junior&hide_progresst=true)](https://github.com/roque-junior/github-readme-stats)
 
