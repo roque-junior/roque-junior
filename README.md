@@ -19,6 +19,7 @@
 - Email: [roquesilvamoraes@gmail.com]() ; 🌐
 ##
 ![roque GitHub stats](https://github-readme-stats.vercel.app/api?username=roque-junior&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roque-junior&hide_progresst=true)](https://github.com/roque-junior/github-readme-stats)
 
 ## 🤝🏻 Connect with Me ⤵️
