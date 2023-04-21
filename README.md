@@ -11,10 +11,10 @@
 
 - Formação acadêmica: Cursando o Programa Starter Developer Web Full Stack na [Growdev](https://www.growdev.com.br/), 
  Ensino Médio Concluido, 
- Assistente Administrativo na [phortal](https://escolaporthal.com.br/),
- Informática Profissional na [phortal](https://escolaporthal.com.br/),
- Montagem e Manutenção de Computadores na [phortal](https://escolaporthal.com.br/),
- Photoshop para iniciantes na [phortal](https://escolaporthal.com.br/); 🎓
+ Assistente Administrativo na [portal](https://escolaporthal.com.br/),
+ Informática Profissional na [portal](https://escolaporthal.com.br/),
+ Montagem e Manutenção de Computadores na [portal](https://escolaporthal.com.br/),
+ Photoshop para iniciantes na [portal](https://escolaporthal.com.br/); 🎓
 
 - Email: [roquesilvamoraes@gmail.com]() ; 🌐
 ##
