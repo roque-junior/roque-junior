@@ -1,6 +1,7 @@
+<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Bem Vindo!!
-##
-
+#
 - Sobre mim 🤔
 
 - Nome: Roque Junior Da Silva Moraes; 🔭
